@@ -43,3 +43,5 @@ Este é um repositório público que funciona como registo de associações não
 | **União Zoófila** | [Link](https://www.uniaozoofila.org/en/ajudar/) | Canil | Não | Lisboa
 | **Pais 21** | [Link](https://pais21.pt/) | Apoio a pessoas com Trissomia 21 | Não | Lisboa
 
+<!--START_SECTION:data-->
+<!--END_SECTION:data-->
