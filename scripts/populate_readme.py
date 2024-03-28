@@ -21,13 +21,13 @@ def retrieve_info() -> Dict[str, Dict[str, Dict[str, List[str]]]]:
                     if index == 0:
                         continue
 
-                    district = row[3].replace("\n", "")
-                    city = row[2].replace("\n", "")
-                    name = row[0].replace("\n", "")
+                    district = row[3].replace("\n", "") if row[3] is not None else ""
+                    city = row[2].replace("\n", "") if row[2] is not None else ""
+                    name = row[0].replace("\n", "") if row[0] is not None else ""
                     details = [
-                        row[4].replace("\n", ""),
-                        row[1].replace("\n", ""),
-                        row[5].replace("\n", ""),
+                        row[4].replace("\n", "") if row[4] is not None else "",
+                        row[1].replace("\n", "") if row[1] is not None else "",
+                        row[5].replace("\n", "") if row[5] is not None else "",
                     ]
                     details_list.append(details)
 
@@ -44,43 +44,9 @@ def retrieve_info() -> Dict[str, Dict[str, Dict[str, List[str]]]]:
         return data
 
 
-# def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
-#     with open("test_README.md", "w") as f:
-#         for district, cities in data.items():
-#             f.write("<details>\n")
-#             f.write(f"<summary> {district}</summary>\n\n")
-
-#             f.write(
-#                 "| Associação | Concelho | Localização Sede | Tipo  | Ano criação |\n"
-#             )
-#             f.write("|---|---|---|---|---|\n")
-
-#             for city, associations in cities.items():
-#                 for name, details in associations.items():
-#                     f.write(
-#                         f"| **{name}** | {city} | {details[1]} | {details[0]} | {details[2]} |\n"
-#                     )
-
-#             f.write("</details>\n\n")
-#     # Add the data to the README
-#     # readme = (
-#     #     readme.split("<!--START_SECTION:data-->")[0]
-#     #     + "<!--START_SECTION:data-->\n"
-#     #     + "```json\n"
-#     #     + json.dumps(data, ensure_ascii=False, indent=4)
-#     #     + "\n```\n"
-#     #     + "<!--END_SECTION:data-->"
-#     #     + readme.split("<!--END_SECTION:data-->")[1]
-#     # )
-
-#     # with open("test_README.md", "w", encoding="utf-8") as f:
-#     #     f.write(readme)
-#     # logger.info("Updated the README with the extracted data")
-
-
 def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
     # Read the existing README file
-    with open("README.md", "r") as f:
+    with open("RAW_ONGS.md", "r") as f:
         readme = f.read()
 
     # Prepare the new data
@@ -114,7 +80,7 @@ def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
         logger.error("The README file does not contain the required comments.")
 
     # Write the updated README back to the file
-    with open("README.md", "w") as f:
+    with open("RAW_ONGS.md", "w") as f:
         f.write(readme)
 
     logger.info("Updated the README with the extracted data")
@@ -122,7 +88,7 @@ def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
 
 if __name__ == "__main__":
     data = retrieve_info()
-    with open("data/data2.json", "w", encoding="utf-8") as f:
+    with open("data/data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     logger.info("Data saved to data/data.json")
     # I want to save the data in a file instead of using it just from memory so that it can be used in the future without having to extract it again
