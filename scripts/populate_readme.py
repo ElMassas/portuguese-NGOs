@@ -62,7 +62,7 @@ def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
             for name, details in associations.items():
                 new_data += f"| **{name}** | {city} | {details[1]} | {details[0]} | {details[2]} |\n"
 
-        new_data += "De volta ao topo[top](#distritos)\n"
+        new_data += "\n\nDe volta ao [topo](#distritos)\n\n---\n\n"
 
     # Check if the comments are present in the README
     if "<!--START_SECTION:data-->" in readme and "<!--END_SECTION:data-->" in readme:
