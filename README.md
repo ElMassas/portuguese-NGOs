@@ -8,7 +8,7 @@ Este é um repositório público que funciona como registo de associações não
 
 ### Info
 
-Este website está divido em 2 partes. A homepage contém informação mais detalhada e específica sobre algumas organizações sem fins lucrativos, e a página: [Raw](ongportugal.com/raw_ongs) contém alguma informação básica sobre todas as IPSS(organizações não governamentais) que existem no país.
+Este website está divido em 2 partes. A homepage contém informação mais detalhada e específica sobre algumas organizações sem fins lucrativos, e a página: [Raw](RAW_ONGS.md) contém alguma informação básica sobre todas as IPSS(organizações não governamentais) que existem no país.
 
 ### Como contribuir?
 
