@@ -1,4 +1,4 @@
-Para voltar à homepage: [homepage](ongportugal.com)
+Para voltar à homepage: [homepage](README.md)
 
 <!--START_SECTION:data-->
 <details>
