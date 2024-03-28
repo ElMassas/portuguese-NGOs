@@ -1,4 +1,4 @@
-#### Objectivo
+## Objectivo
 
 Existem plataformas com intuito semelhante, mas em grande parte estão desatualizadas ao indicarem associações que já não existem, links que não apontam para nenhum website ou bastante incompletas.
 
@@ -6,13 +6,17 @@ Este é um repositório público que funciona como registo de associações não
 
 **Nota**: Por mais que não seja possível fazer voluntariado junto destas associações, a esmagadora maioria permite apoiar com outros contributos, quer sejam esses partilhas nas redes sociais ou doações.
 
----
+### Info
+
+Este website está divido em 2 partes. A homepage contém informação mais detalhada e específica sobre algumas organizações sem fins lucrativos, e a página: [Raw](ongportugal.com/raw_ongs) contém alguma informação básica sobre todas as IPSS(organizações não governamentais) que existem no país.
 
 ### Como contribuir?
 
 - Abrir um [ticket](https://github.com/ElMassas/community-work/issues) com uma alteração ou adição que é necessária realizar.
 - Enviar mensagem para [criador](https://www.instagram.com/el.massas/).
 - Abrir um Pull Request.
+
+---
 
 ## Associações
 
@@ -43,3 +47,11 @@ Este é um repositório público que funciona como registo de associações não
 | **União Zoófila** | [Link](https://www.uniaozoofila.org/en/ajudar/) | Canil | Não | Lisboa
 | **Pais 21** | [Link](https://pais21.pt/) | Apoio a pessoas com Trissomia 21 | Não | Lisboa
 
+
+<!-- Socials -->
+<p align="center">
+  <kbd>
+  <a href="https://github.com/Tiny-Brother/portuguese-NGOs" title="Code repo"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ko-fi.com/elmassas" title="Ko-fi elmassas"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  </kbd>
+</p>
