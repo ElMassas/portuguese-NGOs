@@ -25,8 +25,9 @@ Esta página contém informação sobre todas as IPSS que a Segurança Social te
 
 <!--START_SECTION:data-->
 ## Aveiro
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **AMAR - Associação Macinhatense de Assistência, Recreio e Cultura** | Águeda | Rua nossa Senhora da Piedade, n.º35 | Associação | 1994
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **AMAR - Associação Macinhatense de Assistência, Recreio e Cultura** | Águeda | Rua nossa Senhora da Piedade, n.º35 | Associação | 1994
 | **ARCA DA BOTAREU - Associação Recreativa e Cultural de Águeda** | Águeda | R. Engº.José Bastos Xavier, Bloco A-r/c-Poente | Associação | 1991
 | **ARCOR - Associação Recreativa e Cultural de Óis da Ribeira** | Águeda | Largo do Centro Social | Associação | 1993
 | **Associação Social e Cultural de Serém** | Águeda | Serém - Freg. Macinhata do Vouga | Associação | 1993
@@ -361,8 +362,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Beja
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação de Solidariedade Social de S. João de Negrilhos** | Aljustrel | Rua José António Martins, n.º 312 | Misericórdia | 1986
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação de Solidariedade Social de S. João de Negrilhos** | Aljustrel | Rua José António Martins, n.º 312 | Misericórdia | 1986
 | **Centro Paroquial de Bem Estar Social Ervidel** | Aljustrel | Rua José António Martins, n.º 312 | Misericórdia | 1986
 | **Cocaria-Associação de Solidariedade Social de Rio de Moínhos** | Aljustrel | Rua José António Martins, n.º 312 | Misericórdia | 1986
 | **Engenho e Arte - Associação para a Defesa e Valorização de Messejana** | Aljustrel | Rua José António Martins, n.º 312 | Misericórdia | 1986
@@ -460,8 +462,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Braga
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação de Fomento Amarense** | Amares | Largo Fialho de Almeida - Vila deFrades | Misericórdia | 1989
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação de Fomento Amarense** | Amares | Largo Fialho de Almeida - Vila deFrades | Misericórdia | 1989
 | **Centro de Apoio aos Idosos Bouro (Santa Maria)** | Amares | Largo Fialho de Almeida - Vila deFrades | Misericórdia | 1989
 | **Centro Social de Dornelas - Amares** | Amares | Largo Fialho de Almeida - Vila deFrades | Misericórdia | 1989
 | **Centro Social Paroquial de Lago** | Amares | Largo Fialho de Almeida - Vila deFrades | Misericórdia | 1989
@@ -844,8 +847,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Bragança
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Centro Social Paroquial de Picões** | Alfândega da Fé | Avenida dos Bombeiros, n.º 251 | Misericórdia | 2002
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Centro Social Paroquial de Picões** | Alfândega da Fé | Avenida dos Bombeiros, n.º 251 | Misericórdia | 2002
 | **Centro Social Paroquial de Sambade** | Alfândega da Fé | Avenida dos Bombeiros, n.º 251 | Misericórdia | 2002
 | **Santa Casa da Misericórdia Alfândega da Fé** | Alfândega da Fé | Alfândega da Fé | Misericórdia | 1984
 | **Liga dos Amigos do Centro de Saúde de Alfândega da Fé** | Alfândega da Fé | Alfândega da Fé | Misericórdia | 1984
@@ -963,8 +967,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## CasteloBranco
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação Nossa Senhora da Esperança** | Belmonte | Quinta da Misericórdia, S/n, Bairro doCalvário | Misericórdia | 1984
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação Nossa Senhora da Esperança** | Belmonte | Quinta da Misericórdia, S/n, Bairro doCalvário | Misericórdia | 1984
 | **Centro de Apoio Social de Maçaínhas** | Belmonte | Quinta da Misericórdia, S/n, Bairro doCalvário | Misericórdia | 1984
 | **Centro de Assistência Paroquial de Caria** | Belmonte | Quinta da Misericórdia, S/n, Bairro doCalvário | Misericórdia | 1984
 | **Santa Casa da Misericórdia de Belmonte** | Belmonte | Rua da Misericórdia, s/n | Misericórdia | 1987
@@ -1133,8 +1138,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Coimbra
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Assistência Folquense** | Arganil | Rua de Santana, n.º 654 | Misericórdia | 1985
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Assistência Folquense** | Arganil | Rua de Santana, n.º 654 | Misericórdia | 1985
 | **Associação Humanitária e Social da Casa do Povo do Barril de Alva** | Arganil | Rua de Santana, n.º 654 | Misericórdia | 1985
 | **Casa do Povo da Cerdeira e Moura Serra Instituição Particular deSolidariedade Social** | Arganil | Rua de Santana, n.º 654 | Misericórdia | 1985
 | **Centro Social Paroquial de Benfeita** | Arganil | Avenida Dr. Mário Mathias, n.º 314 | Centro SocialParoquial | 1988
@@ -1395,8 +1401,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Évora
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação de Protecção aos Idosos da Freguesia de Terena** | Alandroal | Largo da Silhada | Misericórdia | 1984
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação de Protecção aos Idosos da Freguesia de Terena** | Alandroal | Largo da Silhada | Misericórdia | 1984
 | **Centro Social Paroquial do Alandroal** | Alandroal | Largo da Silhada | Misericórdia | 1984
 | **Lar e Centro de Dia para Idosos "O Cantinho Amigo de Santiago Maior"** | Alandroal | Largo da Silhada | Misericórdia | 1984
 | **Santa Casa da Misericórdia de Alandroal** | Alandroal | Rua Dr. António José de Almeida, n.º13 | Misericórdia | 1983
@@ -1562,8 +1569,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Faro
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Centro Paroquial de Paderne** | Albufeira | Vila Viçosa | Misericórdia | 1983
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Centro Paroquial de Paderne** | Albufeira | Vila Viçosa | Misericórdia | 1983
 | **Santa Casa da Misericórdia de Albufeira** | Albufeira | Albufeira | Misericórdia | 1983
 | **A.H.S.A. - Associação Humanitária Solidariedade Albufeira** | Albufeira | Albufeira | Misericórdia | 1983
 | **APEXA - Associação de Apoio à Pessoa Excepcional do Algarve** | Albufeira | Albufeira | Misericórdia | 1983
@@ -1714,8 +1722,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Guarda
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Centro Social Padre José Augusto da Fonseca** | Aguiar da Beira | Avenida Fernando Salgueiro Maia,n.º 9 | Misericórdia | 1985
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Centro Social Padre José Augusto da Fonseca** | Aguiar da Beira | Avenida Fernando Salgueiro Maia,n.º 9 | Misericórdia | 1985
 | **Centro Social Paroquial de Carapito** | Aguiar da Beira | Avenida Fernando Salgueiro Maia,n.º 9 | Misericórdia | 1985
 | **Centro Social Paroquial de Cortiçada** | Aguiar da Beira | Avenida Fernando Salgueiro Maia,n.º 9 | Misericórdia | 1985
 | **Centro Social Paroquial de Penaverde** | Aguiar da Beira | Avenida Fernando Salgueiro Maia,n.º 9 | Misericórdia | 1985
@@ -2011,8 +2020,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Leiria
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação de Solidariedade Social do Arieiro** | Alcobaça | Avenida da Misericórdia, n.º 3 | Misericórdia | 1981
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação de Solidariedade Social do Arieiro** | Alcobaça | Avenida da Misericórdia, n.º 3 | Misericórdia | 1981
 | **Associação de Bem Estar e Ocupação de Tempos Livres de Pataias** | Alcobaça | Avenida da Misericórdia, n.º 3 | Misericórdia | 1981
 | **Associação de Bem-Estar e Tempos Livres da Martingança** | Alcobaça | Avenida da Misericórdia, n.º 3 | Misericórdia | 1981
 | **Associação de Promoção Social Cultural e Desportiva dos Casais da Vestiaria.** | Alcobaça | Avenida da Misericórdia, n.º 3 | Misericórdia | 1981
@@ -2219,8 +2229,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Lisboa
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação Monte das Oliveiras** | Alenquer | Rua dos Olivais, n.º 14 - Juncal | Centro SocialParoquial | 2017
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação Monte das Oliveiras** | Alenquer | Rua dos Olivais, n.º 14 - Juncal | Centro SocialParoquial | 2017
 | **Associação Social de Apoio na Velhice e na Infância de Ota** | Alenquer | Rua dos Olivais, n.º 14 - Juncal | Centro SocialParoquial | 2017
 | **Centro Social Paroquial do Carregado** | Alenquer | Rua Vaz Monteiro, n.º 55 | Centro SocialParoquial | 1992
 | **Centro Social Paroquial de Nossa Senhora das Virtudes de Ventosa** | Alenquer | Rua do Centro, s/n | Centro SocialParoquial | 1996
@@ -3125,8 +3136,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Portalegre
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação Centro de Apoio à 3.ª Idade Santo Estêvão de Chança** | Alter do Chão | Largo Barreto Caldeira, s/n | Associação | 1989
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação Centro de Apoio à 3.ª Idade Santo Estêvão de Chança** | Alter do Chão | Largo Barreto Caldeira, s/n | Associação | 1989
 | **Comissão de Melhoramentos da Freguesia de Seda** | Alter do Chão | Bairro Tapada da Margalha, n.º 54 | Associação | 1994
 | **Grupo Social da Cunheira** | Alter do Chão | Largo de Santo Amaro, n.º 14 | Associação | 1987
 | **Santa Casa da Misericórdia de Alter do Chão** | Alter do Chão | Rua João Lopes Namorado, n.º 17 | Misericórdia | 1983
@@ -3251,8 +3263,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Porto
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **ADESCO - Associação de Desenvolvimento Comunitário** | Amarante | Rua da Misericórdia s/n | Misericórdia | 1984
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **ADESCO - Associação de Desenvolvimento Comunitário** | Amarante | Rua da Misericórdia s/n | Misericórdia | 1984
 | **Associação a Terra dos Homens** | Amarante | Rua da Misericórdia s/n | Misericórdia | 1984
 | **Associação de Beneficência de Vila Meã** | Amarante | Rua da Misericórdia s/n | Misericórdia | 1984
 | **Centro de Dia de S. Gonçalo** | Amarante | Rua da Misericórdia s/n | Misericórdia | 1984
@@ -3795,8 +3808,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Santarém
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **ACATIM - Associação Comunitária de Apoio à Terceira Idade de Mouriscas** | Abrantes | Trofa | Misericórdia | 2001
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **ACATIM - Associação Comunitária de Apoio à Terceira Idade de Mouriscas** | Abrantes | Trofa | Misericórdia | 2001
 | **Associação para o Desenvolvimento e Solidariedade Social de Fontes** | Abrantes | Lugar e Freguesia de Fontes | Associação | 1997
 | **Associação de Solidariedade Social Pró- Cultural Professor Silva Leitão** | Abrantes | Rua Dr. Mnuel Rodrigues n.º 77 | Associação | 1991
 | **Centro de Assitência Paroquial de S. Pedro de Alvega** | Abrantes | Rua Professor Joaquim LopesRaposo, s/n | Centro SocialParoquial | 1982
@@ -4045,8 +4059,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Setúbal
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação de Apoio Social de Casebres** | Alcácer do Sal | Rua S. Bartolomeu | Centro SocialParoquial | 2018
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação de Apoio Social de Casebres** | Alcácer do Sal | Rua S. Bartolomeu | Centro SocialParoquial | 2018
 | **Associação Unitária de Reformados, Pensionistas e Idosos do Concelho deAlcácer do Sal** | Alcácer do Sal | Rua S. Bartolomeu | Centro SocialParoquial | 2018
 | **Centro Cultural dos Bairros de São João e Olival Queimado** | Alcácer do Sal | Rua S. Bartolomeu | Centro SocialParoquial | 2018
 | **Centro Social de Santa Susana** | Alcácer do Sal | Rua S. Bartolomeu | Centro SocialParoquial | 2018
@@ -4252,8 +4267,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Viana doCastelo
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação Social Recreativa Juventude Vila Fonche/Juventude** | Arcos deValdevez | Avenida 25 de Abril, Nº 2 | Misericórdia | 1987
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação Social Recreativa Juventude Vila Fonche/Juventude** | Arcos deValdevez | Avenida 25 de Abril, Nº 2 | Misericórdia | 1987
 | **Centro Paroquial e Social de Rio Frio** | Arcos deValdevez | Avenida 25 de Abril, Nº 2 | Misericórdia | 1987
 | **Centro Paroquial Social de Guilhadezes** | Arcos deValdevez | Avenida 25 de Abril, Nº 2 | Misericórdia | 1987
 | **Centro Social Paroquial de Arcos de Valdevez** | Arcos deValdevez | Avenida 25 de Abril, Nº 2 | Misericórdia | 1987
@@ -4395,8 +4411,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Vila Real
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação Cultural e Social do Amieiro** | Alijó | Av. Manuel José Lebrão | Misericórdia | 1983
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação Cultural e Social do Amieiro** | Alijó | Av. Manuel José Lebrão | Misericórdia | 1983
 | **Associação Cultural e Social de Santa Eugénia** | Alijó | Rua da Veiga n.º 12 - Santa Eugénia | Associação | 1993
 | **Associação de São Tiago de Vila Chã** | Alijó | Bairro Cimo da Fonte, nº 5 - Vila Chã | Associação | 1993
 | **Associação Santo Mamede** | Alijó | Largo da Igreja | Associação | 1995
@@ -4540,8 +4557,9 @@ De volta ao [topo](#distritos)
 ---
 
 ## Viseu
-| Associação | Concelho | Localização Sede | Tipo  | Ano criação
-|---|---|---|---|---|| **Associação de Solidariedade Social e Recreativa de São Cosmado** | Armamar | Rua Manuel Augusto FernandesGonçalves, n.º18 | Instituto deOrganizaçãoReligiosa | 2015
+| Associação | Concelho | Localização Sede | Tipo  | Ano criação 
+|---|---|---|---|---| 
+| **Associação de Solidariedade Social e Recreativa de São Cosmado** | Armamar | Rua Manuel Augusto FernandesGonçalves, n.º18 | Instituto deOrganizaçãoReligiosa | 2015
 | **Centro Social e Paroquial de Queimada - Armamar** | Armamar | Rua Manuel Augusto FernandesGonçalves, n.º18 | Instituto deOrganizaçãoReligiosa | 2015
 | **Fundação Gaspar e Manuel Cardoso** | Armamar | Rua Manuel Augusto FernandesGonçalves, n.º18 | Instituto deOrganizaçãoReligiosa | 2015
 | **Santa Casa da Misericórdia de Armamar** | Armamar | Armamar | Misericórdia | 1983
