@@ -53,14 +53,12 @@ def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
     new_data = ""
     for district, cities in data.items():
         new_data += f"## {district}\n"
-        new_data += (
-            "| Associação | Concelho | Localização Sede | Tipo  | Ano criação |\n\n"
-        )
-        new_data += "|---|---|---|---|---|\n\n"
+        new_data += "| Associação | Concelho | Localização Sede | Tipo  | Ano criação\n"
+        new_data += "|---|---|---|---|---|"
 
         for city, associations in cities.items():
             for name, details in associations.items():
-                new_data += f"| **{name}** | {city} | {details[1]} | {details[0]} | {details[2]} |\n\n"
+                new_data += f"| **{name}** | {city} | {details[1]} | {details[0]} | {details[2]}\n"
 
         new_data += "\n\nDe volta ao [topo](#distritos)\n\n---\n\n"
 
