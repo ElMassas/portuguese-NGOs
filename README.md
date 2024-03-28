@@ -17,7 +17,6 @@ Este website está divido em 2 partes. A homepage contém informação mais deta
 - Abrir um Pull Request.
 
 
-[test](test.md)
 ---
 
 ## Associações

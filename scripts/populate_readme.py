@@ -52,9 +52,7 @@ def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
     # Prepare the new data
     new_data = ""
     for district, cities in data.items():
-        new_data += "<details>\n"
-        new_data += f"<summary> {district}</summary>\n\n"
-
+        new_data += f"## {district}\n"
         new_data += (
             "| Associação | Concelho | Localização Sede | Tipo  | Ano criação |\n"
         )
@@ -64,7 +62,7 @@ def update_readme(data: Dict[str, Dict[str, Dict[str, List[str]]]]) -> None:
             for name, details in associations.items():
                 new_data += f"| **{name}** | {city} | {details[1]} | {details[0]} | {details[2]} |\n"
 
-        new_data += "</details>\n\n"
+        new_data += "De volta ao topo[top](#distritos)\n"
 
     # Check if the comments are present in the README
     if "<!--START_SECTION:data-->" in readme and "<!--END_SECTION:data-->" in readme:
